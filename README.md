@@ -17,9 +17,9 @@ I love learn everyday and I'm interested in Data Science and Machine Learning.
 🏄‍♂️. 
 
 - 🔭 I’m currently working on React Native and React Apps
-- 🌱 I’m currently learning Python and Go
+- 🌱 I've worked with Python and Node.js frameworks for backend development
 - 💬 Ask me about: tech, memes, anime
--  ⚡ Languages: JavaScript, TypeScript, Node.js, Java
+-  ⚡ Languages: JavaScript, TypeScript, Node.js, Java, Python
 
 
 > El Psy Kongroo
